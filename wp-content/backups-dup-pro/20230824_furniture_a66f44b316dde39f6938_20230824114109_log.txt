@@ -1,0 +1,70 @@
+********************************************************************************
+DUPLICATOR PRO PACKAGE-LOG: 2023-08-24 11:41:27
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	3.8.9.1
+WORDPRESS:	6.3
+PHP INFO:	7.2.34 | SAPI: apache2handler
+SERVER:		Apache 
+ARCHITECTURE:	64-bit 
+CLIENT KICKOFF: off 
+PHP TIME LIMIT: [7200] not allowed 
+PHP MAX MEMORY: 4294967296 (1536M default) 
+RUN TYPE:	Manual
+MEMORY STACK:	6MB
+ARCHIVE ENGINE: ZipArchive: multi-thread
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP + CHUNKING (chunk size - 500 rows)
+
+TABLES: total: 14 | filtered:0 | create:14
+SCHEMA SIZE: [5079040]
+SQL CREATED: 20230824_furniture_a66f44b316dde39f6938_20230824114109_database.sql
+SQL FILE SIZE: 2.36MB
+SQL FILE TIME: 2023-08-24 11:41:29
+SQL RUNTIME: 1.999 sec.
+MEMORY STACK: 6MB
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  D:/OSPanel/domains/wp-test-task
+ARCHIVE FILE: 20230824_furniture_a66f44b316dde39f6938_20230824114109_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	0B
+STATS:	Dirs 0 | Files 0 | Total 0
+SQL ADDED: 20230824_furniture_a66f44b316dde39f6938_20230824114109_database.sql
+COMPRESSED SIZE: 378.49KB
+ARCHIVE RUNTIME: 0.144 sec.
+MEMORY STACK: 6MB
+Installer files added to archive
+
+********************************************************************************
+STORAGE:
+********************************************************************************
+LOCAL: Default, D:/OSPanel/domains/wp-test-task/wp-content/backups-dup-pro
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 2.36MB
+INSTALLER FILE: 77.04KB
+ARCHIVE FILE: 1.87MB 
+EXPECTED FILE/DIRECTORY COUNT: 0
+ACTUAL FILE/DIRECTORY COUNT: 1
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[2]
+TOTAL PROCESS RUNTIME: 4.547 sec.
+PEAK PHP MEMORY USED: 16MB
+DONE PROCESSING => 20230824_furniture 2023-08-24 11:41:31
+

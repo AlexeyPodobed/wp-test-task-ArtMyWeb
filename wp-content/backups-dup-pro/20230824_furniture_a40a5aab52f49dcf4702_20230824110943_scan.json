@@ -1,0 +1,212 @@
+{
+    "RPT": {
+        "ScanTime": "1.450 sec.",
+        "ScanFile": "20230824_furniture_a40a5aab52f49dcf4702_20230824110943_scan.json",
+        "ScanCreated": "2023-08-24 11:09:46",
+        "ScanPath": "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/backups-dup-pro\/tmp\/20230824_furniture_a40a5aab52f49dcf4702_20230824110943_scan.json"
+    },
+    "SRV": {
+        "Brand": {
+            "LogoAttachmentExists": false,
+            "LogoCount": 0,
+            "LogoFinded": 0,
+            "LogoImageExists": true,
+            "LogoImages": [],
+            "Name": "Default",
+            "Notes": "The default content used when a brand is not defined"
+        },
+        "HOST": [],
+        "PHP": {
+            "websrv": true,
+            "openbase": true,
+            "maxtime": true,
+            "openssl": true,
+            "mysqli": true,
+            "allowurlfopen": true,
+            "curlavailable": true,
+            "version": true,
+            "ALL": "Good"
+        },
+        "WP": {
+            "version": true,
+            "core": true,
+            "ismu": false,
+            "ismuplus": false,
+            "ALL": "Good"
+        }
+    },
+    "ARC": {
+        "Size": "108.41MB",
+        "DirCount": "758",
+        "FileCount": "5,245",
+        "FullCount": "6,003",
+        "USize": 113674813,
+        "UDirCount": 758,
+        "UFileCount": 5245,
+        "UFullCount": 6003,
+        "WarnFileCount": 0,
+        "WarnDirCount": 0,
+        "UnreadableDirCount": 0,
+        "UnreadableFileCount": 0,
+        "FilterDirsAll": [
+            "D:\/OSPanel\/domains\/wp-test-task\/.opcache",
+            "D:\/OSPanel\/domains\/wp-test-task\/.tmb",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/ai1wm-backups",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/backups-dup-lite",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/backups-dup-pro",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/backups-dup-pro",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/backupwordpress",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/bps-backup",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/cache",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/content\/cache",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/contents\/cache",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/infinitewp\/backups",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/managewp\/backups",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/old-cache",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/plugins\/really-simple-captcha\/tmp",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/plugins\/wordfence\/tmp",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/updraft",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/uploads\/aiowps_backups",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/uploads\/backup-guard",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/uploads\/backupbuddy_backups",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/uploads\/backupbuddy_temp",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/uploads\/ithemes-security\/backups",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/uploads\/mainwp\/backup",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/uploads\/pb_backupbuddy",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/uploads\/snapshots",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/uploads\/sucuri",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/uploads\/wp-clone",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/uploads\/wp_all_backup",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/uploads\/wpbackitup_backups",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/wfcache",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-content\/wishlist-backup",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-snapshots"
+        ],
+        "FilterFilesAll": [
+            ".DS_Store",
+            "D:\/OSPanel\/domains\/wp-test-task\/.htaccess",
+            "D:\/OSPanel\/domains\/wp-test-task\/.user.ini",
+            "D:\/OSPanel\/domains\/wp-test-task\/php.ini",
+            "D:\/OSPanel\/domains\/wp-test-task\/web.config",
+            "D:\/OSPanel\/domains\/wp-test-task\/wp-config.php",
+            "dbcache",
+            "debug_log",
+            "error_log",
+            "objectcache",
+            "pgcache",
+            "ws_ftp.log"
+        ],
+        "FilterExtsAll": [],
+        "Status": {
+            "Size": "Good",
+            "Names": "Good",
+            "Big": "Good",
+            "AddonSites": "Good",
+            "UnreadableItems": "Good",
+            "MigratePackage": "Good",
+            "CanbeMigratePackage": true,
+            "showCreateFuncStatus": "Good",
+            "showCreateFunc": true
+        },
+        "RecursiveLinks": [],
+        "UnreadableItems": []
+    },
+    "DB": {
+        "Status": {
+            "Success": true,
+            "Size": "Good",
+            "Rows": "Good"
+        },
+        "Size": "4.84MB",
+        "Rows": "6,309",
+        "TableCount": 14,
+        "TableList": {
+            "wp_commentmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_comments": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "96KB",
+                "USize": 98304
+            },
+            "wp_duplicator_pro_entities": {
+                "Case": 0,
+                "Rows": "5",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_duplicator_pro_packages": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_links": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_options": {
+                "Case": 0,
+                "Rows": "209",
+                "Size": "2.14MB",
+                "USize": 2244608
+            },
+            "wp_postmeta": {
+                "Case": 0,
+                "Rows": "6,007",
+                "Size": "2.09MB",
+                "USize": 2195456
+            },
+            "wp_posts": {
+                "Case": 0,
+                "Rows": "39",
+                "Size": "96KB",
+                "USize": 98304
+            },
+            "wp_term_relationships": {
+                "Case": 0,
+                "Rows": "7",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_term_taxonomy": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_termmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_terms": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_usermeta": {
+                "Case": 0,
+                "Rows": "36",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_users": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "64KB",
+                "USize": 65536
+            }
+        }
+    },
+    "Status": 1
+}
